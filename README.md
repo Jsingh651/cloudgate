@@ -8,3 +8,13 @@ Microservice-style API gateway with authentication, user management, and notific
 - User CRUD with roles
 - Notification dispatch and inbox
 - Service health aggregation
+- Dashboard UI
+
+## Quick Start
+
+```bash
+./mvnw spring-boot:run
+```
+
+Open http://localhost:8080
+
